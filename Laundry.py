@@ -9,7 +9,6 @@ def minutesNeeded(m):
 
 
 if __name__ == "__main__":
-    pass
     print(minutesNeeded(2))
 
 # EOF
